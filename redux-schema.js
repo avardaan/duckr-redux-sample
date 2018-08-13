@@ -1,3 +1,4 @@
+/*
 {
     users: {
         isAuthed,
@@ -18,6 +19,8 @@
         isOpen,
     }
     ducks: {
+        isFetching,
+        error,
         [duckId]: {
             lastUpdated,
             info: {
@@ -71,3 +74,4 @@
         duckIds: [duckIds]
     }
 }
+*/

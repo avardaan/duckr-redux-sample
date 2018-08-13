@@ -15,6 +15,7 @@ Replies
     Ducks Replies
 */
 
+/*
 /users
   uid
     name
@@ -56,3 +57,4 @@ Replies
 /usersLikes
   uid
     duckId: true
+*/
